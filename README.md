@@ -15,4 +15,4 @@ I don't trust any extensions that want access to all websites I visit!
 
 Consider making your own clone :-)
 
-source code: https://github.com/kzahel/autocomplete_on
+source code: https://github.com/william-voyek/autocomplete_on
