@@ -4,10 +4,10 @@ autocomplete_on
 chrome extension to turn on autocomplete
 
 
-https://chrome.google.com/webstore/detail/autocomplete-on/gdhbgagnmhdafendedikgjimegoipbnk
+https://chrome.google.com/webstore/detail/autocomplete-on/ipplmhlcjcgpjhjhpjkdbmmlkmmmdkdb
 
 
-clone of https://chrome.google.com/webstore/detail/autocomplete-on/ecpgkdflcnofdbbkiggklcfmgbnbabhh/related
+clone of https://chrome.google.com/webstore/detail/autocomplete-on/gdhbgagnmhdafendedikgjimegoipbnk
 
 made a clone because i couldn't trust that the other one wouldn't be auto-updated and start stealing my passwords.
 
